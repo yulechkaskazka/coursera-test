@@ -1,0 +1,38 @@
+* {
+	box-sizing: border-box;
+}
+
+.container a{
+	font-size: 2em;
+}
+
+.header-nav .navbar-toggle {
+	vertical-align: middle;
+	float: right;
+}
+
+.navbar-nav li {
+	font-size: 0.8em;
+	text-align: center;
+	background-color: #F8BDF4;	
+}
+
+.row {
+	margin-left: 20px;
+}
+
+.col-xs-12 {
+	margin-bottom: 20px;
+}
+
+#chicken.col-xs-12 {
+	background-color: #EFEC6B;
+}
+
+#vegan {
+	background-color: #91EE74;
+}
+
+#sushi {
+	background-color: #AFA9DF;
+}
